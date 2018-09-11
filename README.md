@@ -6,3 +6,4 @@
 Some C++ examples with Catch tests:
 
 - SequenceVec: Check if a given vector of integers is a sequence.
+- Factorial: Given a integer returns its factorial.
