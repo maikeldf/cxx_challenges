@@ -29,7 +29,7 @@ returning "true" if it is and "false" if it is not.
 
 using namespace std;
 
-namespace cxx_example
+namespace cxx_challenges
 {
    class SequenceVec
    {

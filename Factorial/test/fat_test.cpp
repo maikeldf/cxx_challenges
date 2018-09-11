@@ -1,6 +1,6 @@
 #include <catch.hpp>
 #include "Factorial.h"
-using namespace fat;
+using namespace cxx_challenges;
 
 TEST_CASE( "Factorials of 1 and higher are computed (pass)", "[single-file]" ) {
     REQUIRE( Factorial().Calc(1) == 1 );

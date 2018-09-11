@@ -3,11 +3,9 @@
 #include <algorithm>
 #include <vector>
 
-using namespace cxx_example;
-
 int main ()
 {
-  cxx_example::SequenceVec vec;
+  cxx_challenges::SequenceVec vec;
   vector<int> v = {4,1,3,2};
 
   for_each( v.cbegin(), v.cend(),

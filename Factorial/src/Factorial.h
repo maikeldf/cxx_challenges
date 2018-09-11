@@ -1,7 +1,7 @@
 #ifndef FACTORIAL_H
 #define FACTORIAL_H
 
-namespace fat
+namespace cxx_challenges
 {
   class Factorial
   {
@@ -9,7 +9,6 @@ namespace fat
     Factorial();
     ~Factorial();
     int Calc(int number);
-    
   };
 };
 

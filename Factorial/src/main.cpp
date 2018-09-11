@@ -5,7 +5,7 @@ int main()
 {
   int number(5);
   printf("Factorial of %d is %d\n", 
-    number, fat::Factorial().Calc(number));
+    number, cxx_challenges::Factorial().Calc(number));
 
   return 0;
 }

@@ -1,6 +1,6 @@
 #include "Factorial.h"
 
-namespace fat
+namespace cxx_challenges
 {
   Factorial::Factorial()
   {
